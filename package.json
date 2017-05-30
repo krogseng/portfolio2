@@ -1,0 +1,30 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "A personal blog project to practice HTML5-CSS-JQUERY-AJAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krogseng/portfolio2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krogseng/portfolio2/issues"
+  },
+  "homepage": "https://github.com/krogseng/portfolio2#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "sass": "^0.5.0",
+    "scss": "^0.2.4"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
